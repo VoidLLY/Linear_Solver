@@ -5,7 +5,7 @@ This software implements algorithms to solve the linear system Ax=b, where A is 
 To install the tool, run the following code on a machine that has Git installed on it:
 
 ```
-git clone https://github.com/acse-2019/acse-5-assignment-3_static_variables.git
+git clone https://github.com/VoidLLY/Linear_Solver.git
 ```
 ### User instructions
 
