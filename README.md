@@ -1,5 +1,3 @@
-# ACSE-5-assignment-3-static_variables
-
 This software implements algorithms to solve the linear system Ax=b, where A is a positive definite matrix, and x and b. Methods include Jacobi, Guass Seidel, SOR, LU decomposition and Cholesky factorisation.
 
 ### Installation Guide
